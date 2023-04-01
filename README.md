@@ -12,8 +12,10 @@ CONTENT:
 2) Script (Jupiter Notebook)
 
 
+
 RESULT OF CALCULATION USING INPUT DATA FROM THE ATTACHED TABLE
 ![image](https://user-images.githubusercontent.com/112522254/229304697-ef68a860-ec1e-4019-b958-ac81b4c3067e.png)
+
 
 
 PRODUCTION CHART (BY EACH WELL)	
